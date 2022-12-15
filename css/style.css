@@ -55,6 +55,10 @@ a:hover {
   color: gray;
 }
 
+.list-color {
+  color: white;
+  font-size: 18px;
+}
 
 
 .service-1 .feature-title::before {
